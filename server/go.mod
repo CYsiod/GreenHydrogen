@@ -1,4 +1,4 @@
-module github/Cysiod/GreenHydrogen/server
+module github.com/CYsiod/GreenHydrogen/server
 
 go 1.21.9
 
