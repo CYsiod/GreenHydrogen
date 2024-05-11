@@ -8,8 +8,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/response"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/response"
 	"github.com/gin-gonic/gin"
 )
 

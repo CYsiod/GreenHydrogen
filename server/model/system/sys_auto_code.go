@@ -5,7 +5,7 @@ import (
 	"go/token"
 	"strings"
 
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 )
 
 // AutoCodeStruct 初始版本自动化代码工具

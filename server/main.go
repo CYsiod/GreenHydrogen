@@ -4,9 +4,9 @@ import (
 	_ "go.uber.org/automaxprocs"
 	"go.uber.org/zap"
 
-	"GreenHydrogen/server/core"
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/initialize"
+	"github.com/CYsiod/GreenHydrogen/server/core"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/initialize"
 )
 
 //go:generate go env -w GO111MODULE=on

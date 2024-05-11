@@ -3,10 +3,10 @@ package initialize
 import (
 	"fmt"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/middleware"
-	"GreenHydrogen/server/plugin/email"
-	"GreenHydrogen/server/utils/plugin"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/middleware"
+	"github.com/CYsiod/GreenHydrogen/server/plugin/email"
+	"github.com/CYsiod/GreenHydrogen/server/utils/plugin"
 	"github.com/gin-gonic/gin"
 )
 

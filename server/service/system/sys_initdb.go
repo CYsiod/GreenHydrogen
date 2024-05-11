@@ -1,12 +1,12 @@
 package system
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system/request"
 	"context"
 	"database/sql"
 	"errors"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system/request"
 	"gorm.io/gorm"
 	"sort"
 )

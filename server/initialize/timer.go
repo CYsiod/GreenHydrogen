@@ -1,11 +1,11 @@
 package initialize
 
 import (
-	"GreenHydrogen/server/task"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/task"
 	"github.com/robfig/cron/v3"
 
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 )
 
 func Timer() {

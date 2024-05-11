@@ -3,8 +3,8 @@ package example
 import (
 	"errors"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/example"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/example"
 	"gorm.io/gorm"
 )
 

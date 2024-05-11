@@ -1,10 +1,10 @@
 package system
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/request"
-	"GreenHydrogen/server/model/common/response"
-	systemReq "GreenHydrogen/server/model/system/request"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/response"
+	systemReq "github.com/CYsiod/GreenHydrogen/server/model/system/request"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )

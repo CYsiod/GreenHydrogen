@@ -1,6 +1,6 @@
 package initialize
 
-import "GreenHydrogen/server/utils"
+import "github.com/CYsiod/GreenHydrogen/server/utils"
 
 func init() {
 	_ = utils.RegisterRule("PageVerify",

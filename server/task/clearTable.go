@@ -1,9 +1,9 @@
 package task
 
 import (
-	"GreenHydrogen/server/model/common"
 	"errors"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/model/common"
 	"time"
 
 	"gorm.io/gorm"

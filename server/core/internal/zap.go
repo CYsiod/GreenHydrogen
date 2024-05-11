@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"time"

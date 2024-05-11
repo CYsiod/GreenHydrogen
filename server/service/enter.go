@@ -1,9 +1,9 @@
 package service
 
 import (
-	"GreenHydrogen/server/service/equipment"
-	"GreenHydrogen/server/service/example"
-	"GreenHydrogen/server/service/system"
+	"github.com/CYsiod/GreenHydrogen/server/service/equipment"
+	"github.com/CYsiod/GreenHydrogen/server/service/example"
+	"github.com/CYsiod/GreenHydrogen/server/service/system"
 )
 
 type ServiceGroup struct {

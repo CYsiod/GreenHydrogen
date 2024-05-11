@@ -6,12 +6,12 @@ import (
 	"mime/multipart"
 	"strconv"
 
-	"GreenHydrogen/server/model/example"
+	"github.com/CYsiod/GreenHydrogen/server/model/example"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/response"
-	exampleRes "GreenHydrogen/server/model/example/response"
-	"GreenHydrogen/server/utils"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/response"
+	exampleRes "github.com/CYsiod/GreenHydrogen/server/model/example/response"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )

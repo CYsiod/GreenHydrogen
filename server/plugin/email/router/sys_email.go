@@ -1,8 +1,8 @@
 package router
 
 import (
-	"GreenHydrogen/server/middleware"
-	"GreenHydrogen/server/plugin/email/api"
+	"github.com/CYsiod/GreenHydrogen/server/middleware"
+	"github.com/CYsiod/GreenHydrogen/server/plugin/email/api"
 	"github.com/gin-gonic/gin"
 )
 

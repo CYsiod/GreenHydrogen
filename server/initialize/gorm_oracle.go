@@ -2,9 +2,9 @@ package initialize
 
 import (
 	//"github.com/dzwvip/oracle"
-	"GreenHydrogen/server/config"
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/initialize/internal"
+	"github.com/CYsiod/GreenHydrogen/server/config"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/initialize/internal"
 
 	//_ "github.com/godror/godror"
 	"gorm.io/driver/mysql"

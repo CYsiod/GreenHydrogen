@@ -1,8 +1,8 @@
 package system
 
 import (
-	"GreenHydrogen/server/api/v1"
-	"GreenHydrogen/server/middleware"
+	"github.com/CYsiod/GreenHydrogen/server/api/v1"
+	"github.com/CYsiod/GreenHydrogen/server/middleware"
 	"github.com/gin-gonic/gin"
 )
 

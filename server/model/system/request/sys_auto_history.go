@@ -1,6 +1,6 @@
 package request
 
-import "GreenHydrogen/server/model/common/request"
+import "github.com/CYsiod/GreenHydrogen/server/model/common/request"
 
 type SysAutoHistory struct {
 	request.PageInfo

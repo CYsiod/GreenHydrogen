@@ -1,8 +1,8 @@
 package email
 
 import (
-	"GreenHydrogen/server/plugin/email/global"
-	"GreenHydrogen/server/plugin/email/router"
+	"github.com/CYsiod/GreenHydrogen/server/plugin/email/global"
+	"github.com/CYsiod/GreenHydrogen/server/plugin/email/router"
 	"github.com/gin-gonic/gin"
 )
 

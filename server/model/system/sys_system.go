@@ -1,7 +1,7 @@
 package system
 
 import (
-	"GreenHydrogen/server/config"
+	"github.com/CYsiod/GreenHydrogen/server/config"
 )
 
 // 配置文件结构体

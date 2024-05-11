@@ -50,6 +50,11 @@ require (
 )
 
 require (
+	github.com/jackc/pgx/v5 v5.4.3 // indirect
+	google.golang.org/protobuf v1.32.0 // indirect
+)
+
+require (
 	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/PuerkitoBio/purell v1.1.1 // indirect

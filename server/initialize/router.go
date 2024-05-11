@@ -1,10 +1,10 @@
 package initialize
 
 import (
-	"GreenHydrogen/server/docs"
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/middleware"
-	"GreenHydrogen/server/router"
+	"github.com/CYsiod/GreenHydrogen/server/docs"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/middleware"
+	"github.com/CYsiod/GreenHydrogen/server/router"
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"

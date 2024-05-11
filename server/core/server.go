@@ -1,10 +1,10 @@
 package core
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/initialize"
-	"GreenHydrogen/server/service/system"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/initialize"
+	"github.com/CYsiod/GreenHydrogen/server/service/system"
 	"go.uber.org/zap"
 )
 

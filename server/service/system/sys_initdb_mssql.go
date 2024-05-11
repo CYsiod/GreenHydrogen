@@ -1,12 +1,12 @@
 package system
 
 import (
-	"GreenHydrogen/server/config"
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system/request"
-	"GreenHydrogen/server/utils"
 	"context"
 	"errors"
+	"github.com/CYsiod/GreenHydrogen/server/config"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system/request"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 	"github.com/gofrs/uuid/v5"
 	"github.com/gookit/color"
 	"gorm.io/driver/sqlserver"

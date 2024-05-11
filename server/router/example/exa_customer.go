@@ -1,8 +1,8 @@
 package example
 
 import (
-	v1 "GreenHydrogen/server/api/v1"
-	"GreenHydrogen/server/middleware"
+	v1 "github.com/CYsiod/GreenHydrogen/server/api/v1"
+	"github.com/CYsiod/GreenHydrogen/server/middleware"
 	"github.com/gin-gonic/gin"
 )
 

@@ -6,7 +6,7 @@ import (
 	"mime/multipart"
 	"time"
 
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"

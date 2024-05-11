@@ -6,12 +6,12 @@ import (
 	"strconv"
 	"time"
 
-	"GreenHydrogen/server/plugin/email/utils"
-	utils2 "GreenHydrogen/server/utils"
+	"github.com/CYsiod/GreenHydrogen/server/plugin/email/utils"
+	utils2 "github.com/CYsiod/GreenHydrogen/server/utils"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system"
-	"GreenHydrogen/server/service"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/service"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )

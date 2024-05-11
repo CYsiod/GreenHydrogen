@@ -1,7 +1,7 @@
 package system
 
 import (
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 )
 
 type SysBaseMenu struct {

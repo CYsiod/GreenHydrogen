@@ -1,10 +1,10 @@
 package initialize
 
 import (
-	"GreenHydrogen/server/model/example"
-	sysModel "GreenHydrogen/server/model/system"
-	"GreenHydrogen/server/service/system"
 	"context"
+	"github.com/CYsiod/GreenHydrogen/server/model/example"
+	sysModel "github.com/CYsiod/GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/service/system"
 	adapter "github.com/casbin/gorm-adapter/v3"
 	"gorm.io/gorm"
 )

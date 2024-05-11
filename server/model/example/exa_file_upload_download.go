@@ -1,7 +1,7 @@
 package example
 
 import (
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 )
 
 type ExaFileUploadAndDownload struct {

@@ -1,10 +1,10 @@
 package system
 
 import (
-	sysModel "GreenHydrogen/server/model/system"
-	"GreenHydrogen/server/service/system"
-	"GreenHydrogen/server/utils"
 	"context"
+	sysModel "github.com/CYsiod/GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/service/system"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 	"github.com/gofrs/uuid/v5"
 	"github.com/pkg/errors"
 	"gorm.io/gorm"

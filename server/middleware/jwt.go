@@ -1,17 +1,17 @@
 package middleware
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system"
-	"GreenHydrogen/server/utils"
 	"errors"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 	"github.com/golang-jwt/jwt/v4"
 	"go.uber.org/zap"
 	"strconv"
 	"time"
 
-	"GreenHydrogen/server/model/common/response"
-	"GreenHydrogen/server/service"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/response"
+	"github.com/CYsiod/GreenHydrogen/server/service"
 
 	"github.com/gin-gonic/gin"
 )

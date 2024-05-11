@@ -1,11 +1,11 @@
 package example
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/request"
-	"GreenHydrogen/server/model/common/response"
-	"GreenHydrogen/server/model/example"
-	exampleRes "GreenHydrogen/server/model/example/response"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/response"
+	"github.com/CYsiod/GreenHydrogen/server/model/example"
+	exampleRes "github.com/CYsiod/GreenHydrogen/server/model/example/response"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )

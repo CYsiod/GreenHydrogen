@@ -1,10 +1,10 @@
 package system
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/request"
-	"GreenHydrogen/server/model/system"
-	systemReq "GreenHydrogen/server/model/system/request"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
+	systemReq "github.com/CYsiod/GreenHydrogen/server/model/system/request"
 )
 
 //@author: [granty1](https://github.com/granty1)

@@ -3,8 +3,8 @@ package initialize
 import (
 	"github.com/songzhibin97/gkit/cache/local_cache"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/utils"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 )
 
 func OtherInit() {

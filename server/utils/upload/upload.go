@@ -3,7 +3,7 @@ package upload
 import (
 	"mime/multipart"
 
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 )
 
 // OSS 对象存储接口

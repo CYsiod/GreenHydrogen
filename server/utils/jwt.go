@@ -6,8 +6,8 @@ import (
 
 	jwt "github.com/golang-jwt/jwt/v4"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system/request"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system/request"
 )
 
 type JWT struct {

@@ -1,9 +1,9 @@
 package example
 
 import (
-	"GreenHydrogen/server/model/example"
-	"GreenHydrogen/server/service/system"
 	"context"
+	"github.com/CYsiod/GreenHydrogen/server/model/example"
+	"github.com/CYsiod/GreenHydrogen/server/service/system"
 	"github.com/pkg/errors"
 	"gorm.io/gorm"
 )

@@ -8,7 +8,7 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )

@@ -3,9 +3,9 @@ package system
 import (
 	"time"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/response"
-	systemRes "GreenHydrogen/server/model/system/response"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/response"
+	systemRes "github.com/CYsiod/GreenHydrogen/server/model/system/response"
 	"github.com/gin-gonic/gin"
 	"github.com/mojocn/base64Captcha"
 	"go.uber.org/zap"

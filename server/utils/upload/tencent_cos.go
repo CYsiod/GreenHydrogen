@@ -1,10 +1,10 @@
 package upload
 
 import (
-	"GreenHydrogen/server/global"
 	"context"
 	"errors"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 	cos "github.com/tencentyun/cos-go-sdk-v5"
 	"go.uber.org/zap"
 	"mime/multipart"

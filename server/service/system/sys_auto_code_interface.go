@@ -1,8 +1,8 @@
 package system
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system/response"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system/response"
 )
 
 type Database interface {

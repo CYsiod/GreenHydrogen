@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"GreenHydrogen/server/config"
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/config"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

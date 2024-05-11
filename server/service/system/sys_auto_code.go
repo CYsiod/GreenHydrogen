@@ -13,15 +13,15 @@ import (
 	"strings"
 	"text/template"
 
-	ast2 "GreenHydrogen/server/utils/ast"
+	ast2 "github.com/CYsiod/GreenHydrogen/server/utils/ast"
 
-	"GreenHydrogen/server/resource/autocode_template/subcontract"
+	"github.com/CYsiod/GreenHydrogen/server/resource/autocode_template/subcontract"
 	cp "github.com/otiai10/copy"
 	"go.uber.org/zap"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system"
-	"GreenHydrogen/server/utils"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 
 	"gorm.io/gorm"
 )
@@ -75,7 +75,7 @@ func Init(Package string) {
 		packageServiceName: {
 			path: filepath.Join(global.GVA_CONFIG.AutoCode.Root,
 				global.GVA_CONFIG.AutoCode.Server, "service", "enter.go"),
-			importCodeF:  "GreenHydrogen/server/%s/%s",
+			importCodeF:  "github.com/CYsiod/GreenHydrogen/server/%s/%s",
 			packageNameF: "%s",
 			groupName:    "ServiceGroup",
 			structNameF:  "%sServiceGroup",
@@ -83,7 +83,7 @@ func Init(Package string) {
 		packageRouterName: {
 			path: filepath.Join(global.GVA_CONFIG.AutoCode.Root,
 				global.GVA_CONFIG.AutoCode.Server, "router", "enter.go"),
-			importCodeF:  "GreenHydrogen/server/%s/%s",
+			importCodeF:  "github.com/CYsiod/GreenHydrogen/server/%s/%s",
 			packageNameF: "%s",
 			groupName:    "RouterGroup",
 			structNameF:  "%s",
@@ -91,7 +91,7 @@ func Init(Package string) {
 		packageAPIName: {
 			path: filepath.Join(global.GVA_CONFIG.AutoCode.Root,
 				global.GVA_CONFIG.AutoCode.Server, "api/v1", "enter.go"),
-			importCodeF:  "GreenHydrogen/server/%s/%s",
+			importCodeF:  "github.com/CYsiod/GreenHydrogen/server/%s/%s",
 			packageNameF: "%s",
 			groupName:    "ApiGroup",
 			structNameF:  "%sApiGroup",

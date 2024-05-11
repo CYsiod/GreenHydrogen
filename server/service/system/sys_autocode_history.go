@@ -1,21 +1,21 @@
 package system
 
 import (
-	systemReq "GreenHydrogen/server/model/system/request"
-	"GreenHydrogen/server/utils/ast"
 	"errors"
 	"fmt"
+	systemReq "github.com/CYsiod/GreenHydrogen/server/model/system/request"
+	"github.com/CYsiod/GreenHydrogen/server/utils/ast"
 	"path/filepath"
 	"strconv"
 	"strings"
 	"time"
 
-	"GreenHydrogen/server/model/system/response"
+	"github.com/CYsiod/GreenHydrogen/server/model/system/response"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/request"
-	"GreenHydrogen/server/model/system"
-	"GreenHydrogen/server/utils"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 
 	"go.uber.org/zap"
 )

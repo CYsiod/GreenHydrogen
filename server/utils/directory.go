@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"strings"
 
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 	"go.uber.org/zap"
 )
 

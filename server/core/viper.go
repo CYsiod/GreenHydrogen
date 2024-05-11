@@ -1,9 +1,9 @@
 package core
 
 import (
-	"GreenHydrogen/server/core/internal"
 	"flag"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/core/internal"
 	"github.com/gin-gonic/gin"
 	"os"
 	"path/filepath"
@@ -11,8 +11,8 @@ import (
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
 
-	"GreenHydrogen/server/global"
-	_ "GreenHydrogen/server/packfile"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	_ "github.com/CYsiod/GreenHydrogen/server/packfile"
 )
 
 // Viper //
@@ -51,8 +51,7 @@ func Viper(path ...string) *viper.Viper {
 
 	v := viper.New()
 	v.SetConfigFile(config)
-	v.AddConfigPath("server/")
-	v.SetConfigName("config")
+	//v.SetConfigName("config")
 	v.SetConfigType("yaml")
 	err := v.ReadInConfig()
 	if err != nil {

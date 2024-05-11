@@ -1,8 +1,8 @@
 package initialize
 
 import (
-	"GreenHydrogen/server/global"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 	mqtt "github.com/eclipse/paho.mqtt.golang"
 	"time"
 )

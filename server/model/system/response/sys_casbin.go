@@ -1,7 +1,7 @@
 package response
 
 import (
-	"GreenHydrogen/server/model/system/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/system/request"
 )
 
 type PolicyPathResponse struct {

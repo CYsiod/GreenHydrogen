@@ -1,8 +1,8 @@
 package initialize
 
 import (
-	_ "GreenHydrogen/server/source/example"
-	_ "GreenHydrogen/server/source/system"
+	_ "github.com/CYsiod/GreenHydrogen/server/source/example"
+	_ "github.com/CYsiod/GreenHydrogen/server/source/system"
 )
 
 func init() {

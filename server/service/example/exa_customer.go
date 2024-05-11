@@ -1,11 +1,11 @@
 package example
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/request"
-	"GreenHydrogen/server/model/example"
-	"GreenHydrogen/server/model/system"
-	systemService "GreenHydrogen/server/service/system"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/example"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
+	systemService "github.com/CYsiod/GreenHydrogen/server/service/system"
 )
 
 type CustomerService struct{}

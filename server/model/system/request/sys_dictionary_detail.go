@@ -1,8 +1,8 @@
 package request
 
 import (
-	"GreenHydrogen/server/model/common/request"
-	"GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
 )
 
 type SysDictionaryDetailSearch struct {

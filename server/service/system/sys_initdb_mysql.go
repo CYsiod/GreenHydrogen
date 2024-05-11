@@ -7,13 +7,13 @@ import (
 	"github.com/gofrs/uuid/v5"
 	"path/filepath"
 
-	"GreenHydrogen/server/config"
+	"github.com/CYsiod/GreenHydrogen/server/config"
 	"github.com/gookit/color"
 
-	"GreenHydrogen/server/utils"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system/request"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system/request"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )

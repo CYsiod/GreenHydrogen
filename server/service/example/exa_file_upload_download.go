@@ -5,10 +5,10 @@ import (
 	"mime/multipart"
 	"strings"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/request"
-	"GreenHydrogen/server/model/example"
-	"GreenHydrogen/server/utils/upload"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/example"
+	"github.com/CYsiod/GreenHydrogen/server/utils/upload"
 )
 
 //@author: [piexlmax](https://github.com/piexlmax)

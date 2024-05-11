@@ -1,8 +1,8 @@
 package request
 
 import (
-	"GreenHydrogen/server/config"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/config"
 	"os"
 )
 

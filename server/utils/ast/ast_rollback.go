@@ -1,9 +1,9 @@
 package ast
 
 import (
-	"GreenHydrogen/server/global"
 	"bytes"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 	"go/ast"
 	"go/parser"
 	"go/printer"

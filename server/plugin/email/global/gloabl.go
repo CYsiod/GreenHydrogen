@@ -1,5 +1,5 @@
 package global
 
-import "GreenHydrogen/server/plugin/email/config"
+import "github.com/CYsiod/GreenHydrogen/server/plugin/email/config"
 
 var GlobalConfig = new(config.Email)

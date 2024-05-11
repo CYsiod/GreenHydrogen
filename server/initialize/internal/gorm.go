@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 )

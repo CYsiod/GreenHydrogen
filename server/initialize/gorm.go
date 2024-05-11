@@ -3,9 +3,9 @@ package initialize
 import (
 	"os"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/example"
-	"GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/example"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
 
 	"go.uber.org/zap"
 	"gorm.io/gorm"

@@ -3,7 +3,7 @@ package system
 import (
 	"context"
 
-	"GreenHydrogen/server/service/system"
+	"github.com/CYsiod/GreenHydrogen/server/service/system"
 	adapter "github.com/casbin/gorm-adapter/v3"
 	"github.com/pkg/errors"
 	"gorm.io/gorm"

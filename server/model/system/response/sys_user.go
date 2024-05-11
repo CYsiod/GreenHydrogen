@@ -1,7 +1,7 @@
 package response
 
 import (
-	"GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
 )
 
 type SysUserResponse struct {

@@ -1,9 +1,9 @@
 package router
 
 import (
-	"GreenHydrogen/server/router/equipment"
-	"GreenHydrogen/server/router/example"
-	"GreenHydrogen/server/router/system"
+	"github.com/CYsiod/GreenHydrogen/server/router/equipment"
+	"github.com/CYsiod/GreenHydrogen/server/router/example"
+	"github.com/CYsiod/GreenHydrogen/server/router/system"
 )
 
 type RouterGroup struct {

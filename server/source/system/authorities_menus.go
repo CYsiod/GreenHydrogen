@@ -3,8 +3,8 @@ package system
 import (
 	"context"
 
-	sysModel "GreenHydrogen/server/model/system"
-	"GreenHydrogen/server/service/system"
+	sysModel "github.com/CYsiod/GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/service/system"
 	"github.com/pkg/errors"
 	"gorm.io/gorm"
 )

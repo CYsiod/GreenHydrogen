@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/utils"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 	"go.uber.org/zap"
 )
 

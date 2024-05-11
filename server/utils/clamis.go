@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"GreenHydrogen/server/global"
-	systemReq "GreenHydrogen/server/model/system/request"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	systemReq "github.com/CYsiod/GreenHydrogen/server/model/system/request"
 	"github.com/gin-gonic/gin"
 	"github.com/gofrs/uuid/v5"
 	"net"

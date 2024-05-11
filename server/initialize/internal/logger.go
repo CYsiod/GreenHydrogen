@@ -3,7 +3,7 @@ package internal
 import (
 	"fmt"
 
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 	"gorm.io/gorm/logger"
 )
 

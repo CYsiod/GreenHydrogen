@@ -1,8 +1,8 @@
 package request
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
 )
 
 // Add menu authority info structure

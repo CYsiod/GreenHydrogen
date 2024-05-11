@@ -1,6 +1,6 @@
 package example
 
-import "GreenHydrogen/server/service"
+import "github.com/CYsiod/GreenHydrogen/server/service"
 
 type ApiGroup struct {
 	CustomerApi

@@ -6,7 +6,7 @@ import (
 	"net/smtp"
 	"strings"
 
-	"GreenHydrogen/server/plugin/email/global"
+	"github.com/CYsiod/GreenHydrogen/server/plugin/email/global"
 
 	"github.com/jordan-wright/email"
 )

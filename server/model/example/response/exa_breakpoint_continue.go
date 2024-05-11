@@ -1,6 +1,6 @@
 package response
 
-import "GreenHydrogen/server/model/example"
+import "github.com/CYsiod/GreenHydrogen/server/model/example"
 
 type FilePathResponse struct {
 	FilePath string `json:"filePath"`

@@ -1,8 +1,8 @@
 package request
 
 import (
-	"GreenHydrogen/server/model/common/request"
-	"GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
 )
 
 // api分页条件查询及排序结构体

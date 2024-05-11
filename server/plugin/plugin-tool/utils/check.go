@@ -1,9 +1,9 @@
 package utils
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
 	"strconv"
 )
 

@@ -12,7 +12,7 @@ autocode:
     server-api: /api/v1/%s
     server-plug: /plugin/%s
     server-initialize: /initialize
-    root: /Users/ChenYue/GolandProjects/GreenHydrogen/GreenHydrogen
+    root:
     web-table: /view
     web: /web/src
     server-service: /service/%s

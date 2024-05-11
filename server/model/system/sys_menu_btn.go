@@ -1,6 +1,6 @@
 package system
 
-import "GreenHydrogen/server/global"
+import "github.com/CYsiod/GreenHydrogen/server/global"
 
 type SysBaseMenuBtn struct {
 	global.GVA_MODEL

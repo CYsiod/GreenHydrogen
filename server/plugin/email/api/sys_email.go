@@ -1,10 +1,10 @@
 package api
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/response"
-	email_response "GreenHydrogen/server/plugin/email/model/response"
-	"GreenHydrogen/server/plugin/email/service"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/response"
+	email_response "github.com/CYsiod/GreenHydrogen/server/plugin/email/model/response"
+	"github.com/CYsiod/GreenHydrogen/server/plugin/email/service"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )

@@ -2,7 +2,7 @@
 package system
 
 import (
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 )
 
 // 如果含有time.Time 请自行import time包

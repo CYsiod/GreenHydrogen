@@ -1,6 +1,6 @@
 package response
 
-import "GreenHydrogen/server/model/system"
+import "github.com/CYsiod/GreenHydrogen/server/model/system"
 
 type SysMenusResponse struct {
 	Menus []system.SysMenu `json:"menus"`

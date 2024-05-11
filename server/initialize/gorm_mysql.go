@@ -1,9 +1,9 @@
 package initialize
 
 import (
-	"GreenHydrogen/server/config"
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/initialize/internal"
+	"github.com/CYsiod/GreenHydrogen/server/config"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/initialize/internal"
 	_ "github.com/go-sql-driver/mysql"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

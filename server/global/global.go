@@ -4,14 +4,14 @@ import (
 	"github.com/qiniu/qmgo"
 	"sync"
 
-	"GreenHydrogen/server/utils/timer"
+	"github.com/CYsiod/GreenHydrogen/server/utils/timer"
 	"github.com/songzhibin97/gkit/cache/local_cache"
 
 	"golang.org/x/sync/singleflight"
 
 	"go.uber.org/zap"
 
-	"GreenHydrogen/server/config"
+	"github.com/CYsiod/GreenHydrogen/server/config"
 
 	"github.com/redis/go-redis/v9"
 	"github.com/spf13/viper"

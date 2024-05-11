@@ -1,11 +1,11 @@
 package system
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/system"
-	"GreenHydrogen/server/model/system/request"
-	"GreenHydrogen/server/model/system/response"
 	"errors"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/model/system/request"
+	"github.com/CYsiod/GreenHydrogen/server/model/system/response"
 	"gorm.io/gorm"
 )
 

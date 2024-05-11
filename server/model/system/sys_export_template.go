@@ -2,7 +2,7 @@
 package system
 
 import (
-	"GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/global"
 )
 
 // 导出模板 结构体  SysExportTemplate

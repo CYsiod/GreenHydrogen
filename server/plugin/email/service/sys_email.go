@@ -1,7 +1,7 @@
 package service
 
 import (
-	"GreenHydrogen/server/plugin/email/utils"
+	"github.com/CYsiod/GreenHydrogen/server/plugin/email/utils"
 )
 
 type EmailService struct{}

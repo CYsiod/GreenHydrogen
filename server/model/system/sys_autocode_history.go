@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"strings"
 
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/model/common/request"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/model/common/request"
 )
 
 // SysAutoCodeHistory 自动迁移代码记录,用于回滚,重放使用

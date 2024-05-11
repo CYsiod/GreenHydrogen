@@ -1,9 +1,9 @@
 package initialize
 
 import (
-	"GreenHydrogen/server/config"
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/initialize/internal"
+	"github.com/CYsiod/GreenHydrogen/server/config"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/initialize/internal"
 	"github.com/glebarez/sqlite"
 	"gorm.io/gorm"
 )

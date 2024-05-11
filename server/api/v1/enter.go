@@ -1,9 +1,9 @@
 package v1
 
 import (
-	"GreenHydrogen/server/api/v1/equipment"
-	"GreenHydrogen/server/api/v1/example"
-	"GreenHydrogen/server/api/v1/system"
+	"github.com/CYsiod/GreenHydrogen/server/api/v1/equipment"
+	"github.com/CYsiod/GreenHydrogen/server/api/v1/example"
+	"github.com/CYsiod/GreenHydrogen/server/api/v1/system"
 )
 
 type ApiGroup struct {

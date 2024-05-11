@@ -1,11 +1,11 @@
 package initialize
 
 import (
-	"GreenHydrogen/server/global"
-	"GreenHydrogen/server/initialize/internal"
-	"GreenHydrogen/server/utils"
 	"context"
 	"fmt"
+	"github.com/CYsiod/GreenHydrogen/server/global"
+	"github.com/CYsiod/GreenHydrogen/server/initialize/internal"
+	"github.com/CYsiod/GreenHydrogen/server/utils"
 	"github.com/pkg/errors"
 	"github.com/qiniu/qmgo"
 	"github.com/qiniu/qmgo/options"

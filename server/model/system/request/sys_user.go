@@ -1,7 +1,7 @@
 package request
 
 import (
-	"GreenHydrogen/server/model/system"
+	"github.com/CYsiod/GreenHydrogen/server/model/system"
 )
 
 // Register User register structure
