@@ -1,0 +1,12 @@
+[GreenHydrogen/server]2024/04/27 - 20:26:34.469	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/initialize/gorm.go:60	register table success
+[GreenHydrogen/server]2024/04/27 - 20:26:34.470	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[GreenHydrogen/server]2024/04/27 - 20:26:34.471	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/initialize/router.go:96	router register success
+[GreenHydrogen/server]2024/04/27 - 20:26:34.471	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[GreenHydrogen/server]2024/04/27 - 21:06:24.966	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/initialize/gorm.go:60	register table success
+[GreenHydrogen/server]2024/04/27 - 21:06:24.966	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[GreenHydrogen/server]2024/04/27 - 21:06:24.967	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/initialize/router.go:96	router register success
+[GreenHydrogen/server]2024/04/27 - 21:06:24.967	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[GreenHydrogen/server]2024/04/27 - 21:06:25.051	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/initialize/gorm.go:60	register table success
+[GreenHydrogen/server]2024/04/27 - 21:06:25.051	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[GreenHydrogen/server]2024/04/27 - 21:06:25.051	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/initialize/router.go:96	router register success
+[GreenHydrogen/server]2024/04/27 - 21:06:25.051	[34minfo[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8888"}

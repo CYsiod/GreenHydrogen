@@ -1,0 +1,4 @@
+[GreenHydrogen/server]2024/05/03 - 14:28:39.563	[31merror[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/core/server.go:39	net.Listen error: listen tcp :8888: bind: address already in use
+[GreenHydrogen/server]2024/05/03 - 14:30:20.306	[31merror[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/core/server.go:49	accept tcp [::]:8888: use of closed network connection
+[GreenHydrogen/server]2024/05/03 - 15:39:27.880	[31merror[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/core/server.go:39	accept tcp [::]:8888: use of closed network connection
+[GreenHydrogen/server]2024/05/03 - 15:42:43.551	[31merror[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/core/server.go:39	accept tcp [::]:8888: use of closed network connection

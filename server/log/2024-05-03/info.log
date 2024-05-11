@@ -1,0 +1,12 @@
+[GreenHydrogen/server]2024/05/03 - 14:28:39.560	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/initialize/gorm.go:60	register table success
+[GreenHydrogen/server]2024/05/03 - 14:28:39.561	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/initialize/router.go:60	register swagger handler
+[GreenHydrogen/server]2024/05/03 - 14:28:39.563	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/initialize/router.go:96	router register success
+[GreenHydrogen/server]2024/05/03 - 14:28:39.563	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[GreenHydrogen/server]2024/05/03 - 14:30:28.231	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/initialize/gorm.go:60	register table success
+[GreenHydrogen/server]2024/05/03 - 14:30:28.232	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/initialize/router.go:60	register swagger handler
+[GreenHydrogen/server]2024/05/03 - 14:30:28.234	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/initialize/router.go:96	router register success
+[GreenHydrogen/server]2024/05/03 - 14:30:28.234	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[GreenHydrogen/server]2024/05/03 - 15:39:47.029	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/initialize/gorm.go:61	register table success
+[GreenHydrogen/server]2024/05/03 - 15:39:47.030	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/initialize/router.go:60	register swagger handler
+[GreenHydrogen/server]2024/05/03 - 15:39:47.032	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/initialize/router.go:100	router register success
+[GreenHydrogen/server]2024/05/03 - 15:39:47.032	[34minfo[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/server/GreenHydrogen/server/server/core/server.go:37	server run success on 	{"address": ":8888"}

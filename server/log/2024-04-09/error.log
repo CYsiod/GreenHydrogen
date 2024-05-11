@@ -1,0 +1,2 @@
+[GreenHydrogen/server]2024/04/09 - 11:44:21.563	[31merror[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/api/v1/system/sys_user.go:56	登陆失败! 用户名不存在或者密码错误!	{"error": "db not init"}
+[GreenHydrogen/server]2024/04/09 - 20:46:42.010	[31merror[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/api/v1/system/sys_user.go:56	登陆失败! 用户名不存在或者密码错误!	{"error": "db not init"}

@@ -1,0 +1,1 @@
+[GreenHydrogen/server]2024/05/05 - 20:33:56.425	[31merror[0m	/Users/ChenYue/GolandProjects/GreenHydrogen/GreenHydrogen/server/core/server.go:39	accept tcp [::]:8888: use of closed network connection

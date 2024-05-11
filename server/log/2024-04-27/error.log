@@ -1,0 +1,2 @@
+[GreenHydrogen/server]2024/04/27 - 21:06:24.967	[31merror[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/core/server.go:49	accept tcp [::]:8888: use of closed network connection
+[GreenHydrogen/server]2024/04/27 - 21:06:25.051	[31merror[0m	/Users/ChenYue/GolandProjects/gin-vue-admin/server/core/server.go:49	accept tcp [::]:8888: use of closed network connection
